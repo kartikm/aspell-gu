@@ -9,12 +9,12 @@ author:
   email kartik dot mistry at gmail dot com
   maintainer true
 copyright GPL-3
-url https://gitorious.org/gujarati-resources/aspell-gu
-version 0.03-0
+url https://github.com/kartikm/aspell-gu
+version 0.04
 complete false
 accurate true
 alias gu gujarati
 dict:
   name gu
   add gu
-notes Based on Gnome, OpenOffice and others Gujarati PO Files
+notes Based on Gnome, OpenOffice and other Gujarati PO files and dictionary.
