@@ -1,12 +1,12 @@
 GNU Aspell 0.60 Gujarati (ગુજરાતી) Dictionary Package
-Version 0.03
-2007-09-13
+Version 0.04
+2013-03-00 (unreleased)
 Maintained By:
   Kartik Mistry (કાર્તિક મિસ્ત્રી) <kartik dot mistry at gmail dot com>
 Original Word List Also By:
   Utkarsh Project volunteers <team at utkarsh dot org>
 Copyright Terms: GPL (see the file Copyright for the exact terms)
-Wordlist URL: http://utkarsh.org/dictionary
+Wordlist URL: https://github.com/kartikm/gu-wordlist
 Source Verson: 1
 This word list is considered accurate but incomplete.
 
