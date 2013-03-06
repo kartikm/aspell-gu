@@ -1,0 +1,18 @@
+README.release
+--------------
+
+1. Get latest aspell-lang from:
+
+   cvs -z3 -d:pserver:anonymous@cvs.savannah.gnu.org:/sources/aspell co aspell-lang
+
+2. Create wordlist without -, ., :, () etc
+
+3. sort wordlist.txt wordlist-final.txt
+
+4. cp wordlist.txt gu.wl
+
+5. prezip -z -s gu.wl
+
+6. ./proc create
+
+7. ./configure
