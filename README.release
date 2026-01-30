@@ -3,7 +3,7 @@ README.release
 
 1. Get latest aspell-lang from:
 
-   cvs -z3 -d:pserver:anonymous@cvs.savannah.gnu.org:/sources/aspell co aspell-lang
+   git clone https://https.git.savannah.gnu.org/git/aspell/aspell-lang.git
 
 2. Create wordlist without -, ., :, () etc
 
