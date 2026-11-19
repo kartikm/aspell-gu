@@ -1,7 +1,7 @@
-# Generated with Aspell Dicts "proc" script version 0.60.3
+# Generated with Aspell Dicts "proc" script version 0.60.4
 
 lang = gu
-version = 0.03
+version = 0.05
 
 cwl_files = gu.cwl
 data_files = gu.dat u-gujr.cset u-gujr.cmap

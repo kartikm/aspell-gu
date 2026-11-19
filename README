@@ -1,16 +1,13 @@
 GNU Aspell 0.60 Gujarati (ગુજરાતી) Dictionary Package
-Version 0.04
-2013-03-00 (unreleased)
+Version 0.05
+2026-11-18
 Maintained By:
   Kartik Mistry (કાર્તિક મિસ્ત્રી) <kartik dot mistry at gmail dot com>
-Original Word List Also By:
-  Utkarsh Project volunteers <team at utkarsh dot org>
-Copyright Terms: GPL (see the file Copyright for the exact terms)
-Wordlist URL: https://github.com/kartikm/gu-wordlist
-Source Verson: 1
+Copyright Terms: GPLv3 (see the file Copyright for the exact terms)
+Wordlist URL: https://github.com/kartikm/aspell-gu
 This word list is considered accurate but incomplete.
 
-This is the Gujarati dictionary for Aspell.  It requires Aspell
+This is the Gujarati dictionary for Aspell.  It requires Aspell 
 version 0.60 or better.
 
 If Aspell is installed and aspell and prezip-bin are all
@@ -54,8 +51,8 @@ Whereas the names in parentheses are alternate names for the
 dictionary preceding the parentheses.
 
 The individual word lists have an extension of ".cwl" and are
-compressed to save space.  To uncompress a word list use
-"preunzip BASE.cwl" which will uncompress it and rename the file
+compressed to save space.  To uncompress a word list use 
+"preunzip BASE.cwl" which will uncompress it and rename the file 
 to "BASE.wl".  To dump a compressed word list to standard output use
 "precat BASE.cwl".  To uncompress all word lists in the current
 directory use "preunzip *.cwl".  For more help on "preunzip" use
@@ -70,3 +67,4 @@ actual Word Lists.
 
 Any additional documentation that came with the original word list can
 be found in the doc/ directory.
+

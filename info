@@ -8,9 +8,9 @@ author:
   name-native કાર્તિક મિસ્ત્રી
   email kartik dot mistry at gmail dot com
   maintainer true
-copyright GPL-3
+copyright GPLv3
 url https://github.com/kartikm/aspell-gu
-version 0.04
+version 0.05
 complete false
 accurate true
 alias gu gujarati
