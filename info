@@ -10,11 +10,11 @@ author:
   maintainer true
 copyright GPLv3
 url https://github.com/kartikm/aspell-gu
-version 0.05
+version 0.06
 complete false
 accurate true
 alias gu gujarati
 dict:
   name gu
   add gu
-notes Based on Gnome, OpenOffice and other Gujarati PO files and dictionary.
+notes Based on https://github.com/kartikm/gu-wordlist project

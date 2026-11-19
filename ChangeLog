@@ -1,6 +1,11 @@
-Current
--------
+0.06
+----
+* Updated wordlist.
+
+0.05
+----
 * Convert release instruction to Markdown format. Updated some information.
+* Updated wordlist from: https://github.com/kartikm/gu-wordlist
 
 0.04
 ----
